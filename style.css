@@ -1,0 +1,40 @@
+html{
+    font-family: monospace;
+    background-color:whitesmoke ;
+}
+.container {
+    position: relative; /* Make container positionable */
+ }
+ 
+ .image {
+    position: absolute; /* Position image absolutely */
+    top: 0; /* Align to top of container */
+    right: 0; /* Align to right of container */
+    border: 5px solid black;
+ }
+ 
+#One{
+    border: 30px solid rgb(255, 102, 0);
+    color: white;
+    background-color: rgb(255, 102, 0);
+    font-size: 25px;
+    width: 80%;
+}
+h2{
+    background-color:black;
+    color:white;
+    font-size: 20px;
+    width: 20%;
+}
+p{
+    color: black;
+    font-size: 16px;
+}
+address{
+    color: black;
+    font-size: 16px;
+}
+li{
+    color: black;
+    font-size: 16px;
+}
